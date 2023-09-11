@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TheWildFig_Json",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -106.820226541828077, 39.189064279610278 ] } }
+]
+}
