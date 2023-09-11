@@ -3,6 +3,6 @@
 "name": "PossArchitecture_Json",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -106.816671865306986, 39.189915539752548 ] } }
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -106.816606711609097, 39.189892568971239 ] } }
 ]
 }
