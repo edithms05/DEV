@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projections</title>
+</head>
+<body>
+    <h1 style="color: rgb(231, 77, 77);">Homework 3</h1>
+    <h1 style="color: rgb(254, 127, 127);">In this project I learned how to display images in different projections</h1>
+    
+    <!-- <h2 style="color:rgb(254, 127, 127)">Describe in your own words how you displayed the map in different projections using QGIS</h2> -->
+    <p>I first downloaded the Indicitrix mapper program so that it was easy to clearly identify where warping on different projections was occuring. From here, I was able to change the Project Coordinate Reference System a number of times to show what different projections look like with the Indicatrix. Each time I would use a new projection, I would create a new Print Layout so that I could download each as a PNG and put it into GitHub.</p>
+    
+    <h2>WGS84 Projection</h2>
+    <h3>In this projection, the warping is present the further one gets from the equator. This is represented by the Indicatrix.</h3>
+    <a href=".//maps/WGS84.png">
+    <img src=".//maps/WGS84.png" alt="WGS84" width='500px'>
+    </a>
+    <h2>Aitoff Projection</h2>
+    <h3>This projection is represented more spherically which allows for less warping along the poles. There is more warping when you move East or West, however.</h3>
+    <a href=".//maps/World-Aitoff.png">
+    <img src=".//maps/World-Aitoff.png" alt="Aitoff" width='500px'>
+    </a>
+    <h2>Winkel Projection</h2>
+    <h3>The Winkle projection is very similar to the Aitoff projection in that it shows the Earth as an ellipsoid. There is slightly less warping to the East and West, however.</h3>
+    <a href=".//maps/Winkel.png">
+    <img src=".//maps/Winkel.png" alt="Winkel" width='500px'>
+    </a>
+    <h2>Psuedo Mercator</h2>
+    <h3>This projection is also very common. There is little to no warping around the equator, but there is quitea bit around the poles. A good example of this is how large Greenland is represented in this map. It appears to be as large as Africa which is not accurate.</h3>
+    <a href=".//maps/Psuedo-Mercator.png">
+    <img src=".//maps/Psuedo-Mercator.png" alt="Psuedo-Mercator" width='500px'>
+    </a>
+    <h2>Equal Area Cyclical Projection</h2>
+    <h3>As the name indicates, this projection looks like a flattened cylinder. This allows for minimal warping across the equator, but a good deal of warping around the poles.</h3>
+    <a href=".//maps/Equal Area.png">
+    <img src=".//maps/Equal Area.png" alt="Equal Area" width='500px'>
+    </a>
+    <h2>Equidistant Conic Projection</h2>
+    <h3>This equidistant conic projection is viewd from the North Pole. This allows for minimal warping around the Northern Pole, unlike the projections above, but creates extreme warping around the South Pole.</h3>
+    <a href=".//maps/Equidistant-Conic.png">
+    <img src=".//maps/Equidistant-Conic.png" alt="Equidistant Conic" width='500px'>
+    </a>
+    <h2>Azimuthal Equidistant Projection</h2>
+    <h3>This prokection is very similar to the equidistant conic projection, but rather than stopping part way, the projection wraps around the entirety of the globe.</h3>
+    <a href=".//maps/azimuthal.png">
+    <img src=".//maps/azimuthal.png" alt="Azimuthal" width='500px'>
+    </a>
+    <h2>Robinson Projection</h2>
+    <h3>This projection is sort of a cross between the Aitoff or Winkel Projections and an Equal Area Cyclical Projection.</h3>
+    <a href=".//maps/Robinson.png">
+    <img src=".//maps/Robinson.png" alt="Robinson" width='500px'>
+    </a>
+    <h2>Bonne Projection</h2>
+    <h3>The Bonne Projection is interesting in that there is warping in many different areas of the globe, but it provides for less warping around the North Pole.</h3>
+    <a href=".//maps/Bonne.png">
+    <img src=".//maps/Bonne.png" alt="Bonne" width='500px'>
+    </a>
+    <!-- <h2 style="color:rgb(254, 127, 127)">Now, you should <u>add the following projections on your own:</u></h2> -->
+    <!-- <h3>EPSG: 3857, 53018, 54034, 54027, 102016, and two additional projections that you choose.</h3> -->
+    <p></p>
+    <h2>Data used for this project</h2>
+    <a href="https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_admin_0_countries.zip"> Download Natrual Earth 1:10m Cultural Vector </a>
+</body>
+</html>
