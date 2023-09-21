@@ -29,7 +29,7 @@
       var map = L.map('map', { attributionControl: false } ).setView([35.905055067976264, -79.049841771585], 14.0);
       L.control.attribution( { prefix: false } ).addTo( map );
       
-      var tilesource_layer = L.tileLayer('tiles/{z}/{x}/{y}.jpg', {
+      var tilesource_layer = L.tileLayer('./tiles/{z}/{x}/{y}.jpg', {
         minZoom: 12,
         maxZoom: 16,
         tms: false,
