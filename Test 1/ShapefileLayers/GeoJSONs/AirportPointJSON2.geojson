@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AirportPointJSON2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "name": "Boston Logan Airport" }, "geometry": { "type": "Point", "coordinates": [ -71.020103816711767, 42.36644877072866 ] } }
+]
+}
