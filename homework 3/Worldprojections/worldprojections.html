@@ -8,26 +8,26 @@
 <body>
     <h1>In this project I learned how to display images in different projections</h1>
     
-    <h2 style="color:red">Describe in your own words how you displayed the map in different projections using QGIS</h2>
-    <p>You can write a paragraph here</p>
+    <h2 style="color:rgb(255, 189, 189)">Describe in your own words how you displayed the map in different projections using QGIS</h2>
+    <p>In QGIS, I was able to display the different projection styles by changing the Project Coordinate Reference System. From here, downloading the Indicatrix mapper allowed me to look at the immediate visual differences in each projection, while also looking at how and where each one was warped. To creat a png for each projection to better showcase these differences, I used Project Layout, and then added labels to make sure each was easy to distinguish, especially because some of them look so similar.</p>
     
     <h2>WGS84 Projection</h2>
-    <h3>Some observations</h3>
+    <h3>This projection is fairly common, and one of the first options that you see in QGIS. It is very obviously warped the closer that you get to the poles, while it stays more accurate closer to the poles.</h3>
     <a href=".//maps/WGS 84.png">
     <img src=".//maps/WGS 84.png" alt="WGS84" width='500px'>
     </a>
     <h2>Aitoff Projection</h2>
-    <h3>Some observations</h3>
+    <h3>This projection is more spherical, and shows less warping near the poles. In this case, the projection represents the Earth's shape as an ellipsoid.</h3>
     <a href=".//maps/Aitoff.png">
     <img src=".//maps/Aitoff.png" alt="Aitoff" width='500px'>
     </a>
     <h2>Psuedo Mercator Projection</h2>
-    <h3>Some observations</h3>
+    <h3>The Psuedo Mercator Projection is very similar the WGS84 projection in that they both show the world in a way that creates warping near the poles. In this projection, however, it is not warped as horizontally as the WGS84 projection is.</h3>
     <a href=".//maps/Psuedo Mercator.png">
     <img src=".//maps/Psuedo Mercator.png" alt="Psuedo Mercator" width='500px'>
     </a>
     <h2>Winkel Projection</h2>
-    <h3>Some observations</h3>
+    <h3>The Winkel Projection is similar to the Aitoff Projection  in that it is representing the Earth as more of an ellipsoid, but this projection has less dramatic warping as you move away from the equator, and further east/west.</h3>
     <a href=".//maps/Winkel.png">
     <img src=".//maps/Winkel.png" alt="Winkel" width='500px'>
     </a>
