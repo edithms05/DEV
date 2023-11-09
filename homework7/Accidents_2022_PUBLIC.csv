@@ -1,0 +1,957 @@
+﻿AvyYear,lat,lon,PrimaryActivity,TravelMode,Killed
+2022,40.25337,-105.600944,Climber,Foot,1
+2022,61.1262988,-145.7271624,Mechanised Guide,Ski,1
+2022,40.50566,-106.72047,Backcountry Tourer,Ski,1
+2022,37.811,-107.838,Backcountry Tourer,Snowboard,1
+2022,43.594646,-111.011139,Backcountry Tourer,Ski,1
+2022,41.08325,-106.88938,Snowmobiler,Snowmobile,1
+2022,39.0633427,-107.1758918,Resident,Snowshoe,1
+2022,45.0466424,-109.9771345,Snowmobiler,Snowbike,1
+2022,44.7007794,-111.2909701,Snowmobiler,Snowmobile,1
+2022,39.3698477,-106.0733894,Hiker,Snowshoe,2
+2022,45.07147,-109.94407,Snowmobiler,Snowmobile,2
+2022,40.5108549,-105.8907319,Backcountry Tourer,Ski,1
+2022,43.7069491,-111.3444239,Hybrid Rider,Snowmobile,2
+2022,46.9037942,-121.4954424,Backcountry Tourer,Ski,1
+2021,62.99264,-150.71404,Climber,Foot,1
+2021,61.79476,-147.73927,Motorized Guided client,Ski,1
+2021,39.5776,-106.5548,Sidecountry Rider,Ski,1
+2021,39.36713,-120.32926,Snowmobiler,Foot,1
+2021,47.537,-115.82937,Snowmobiler,Snowmobile,1
+2021,43.69679,-110.79015,Backcountry Tourer,Snowboard,1
+2021,42.46526,-111.54934,Snowmobiler,Snowmobile,1
+2021,40.56855,-115.39873,Snowmobiler,Snowmobile,1
+2021,43.812,-114.84442,Snowmobiler,Snowmobile,1
+2021,43.75778,-110.06862,Backcountry Tourer,Snowboard,1
+2021,43.1507,-110.9939,Snowmobiler,Snowmobile,1
+2021,40.3544,-105.96973,Snowmobiler,Snowmobile,1
+2021,45.3407,-111.391,Backcountry Tourer,Snowboard,1
+2021,39.6927,-105.8909,Backcountry Tourer,Snowboard,1
+2021,39.93438,-105.68267,Snowmobiler,Snowmobile,1
+2021,47.37055,-121.11164,Snowmobiler,Snowbike,1
+2021,40.67619,-111.67168,Backcountry Tourer,Ski,4
+2021,48.23555,-113.96937,Snowmobiler,Snowmobile,1
+2021,39.6059,-106.2956,Sidecountry Rider,Ski,1
+2021,41.39009,-122.98229,Backcountry Tourer,Ski,1
+2021,61.41102,-149.38629,Climber,Foot,3
+2021,37.84364,-107.76892,Backcountry Tourer,Ski,3
+2021,44.25602,-71.32073,Backcountry Tourer,Ski,1
+2021,40.66465,-111.60109,Sidecountry Rider,Ski,1
+2021,40.6529,-111.59156,Sidecountry Rider,Snowboard,1
+2021,39.8261,-105.772,Backcountry Tourer,Ski,1
+2021,37.82931,-107.74661,Backcountry Tourer,Ski,2
+2021,38.83428,-107.09508,Backcountry Tourer,Ski,1
+2021,42.60289,-110.75731,Snowmobiler,Snowmobile,1
+2020,38.89532,-107.03138,Backcountry Tourer,Ski,1
+2020,39.6458,-106.15636,Backcountry Tourer,Ski,1
+2020,43.35006,-111.21846,Snowmobiler,Snowmobile,1
+2020,43.53018,-110.98117,Backcountry Tourer,Snowboard,1
+2020,42.76727,-112.13999,Sidecountry Rider,Ski,1
+2020,61.76992,-149.31278,Backcountry Tourer,Snowboard,1
+2020,53.87779,-166.53277,Snowmobiler,Snowmobile,1
+2020,39.6897,-106.4702,Snowmobiler,Snowbike,2
+2020,60.31759,-149.60966,Snowmobiler,Snowmobile,1
+2020,47.33538,-120.58043,Resident,Foot,1
+2020,37.983432,-107.655867,Climber,Foot,1
+2020,40.97512,-111.8223,Snowmobiler,Snowmobile,1
+2020,39.15756,-120.22238,Inbounds Rider,Ski,1
+2020,43.69076,-114.67559,Snowmobiler,Snowmobile,1
+2020,44.86901,-118.19007,Snowmobiler,Snowmobile,1
+2020,47.48811,-116.1278,Inbounds Rider,Ski,3
+2020,47.25592,-113.71536,Snowmobiler,Snowmobile,2
+2020,40.65347,-111.59126,Sidecountry Rider,Snowboard,1
+2020,40.51611,-105.90773,Backcountry Tourer,Ski,1
+2019,44.27047,-71.30302,Backcountry Tourer,Ski,1
+2019,59.26892,-135.5229,Backcountry Tourer,Snowboard,1
+2019,42.84156,-106.32372,Resident,Foot,1
+2019,60.44865,-149.49703,Backcountry Tourer,Ski,1
+2019,38.80363,-106.8897,Resident,Foot,1
+2019,39.78113,-105.86643,Mechanized Guide,Ski,1
+2019,43.80692,-110.09852,Snowmobiler,Snowmobile,1
+2019,37.82918,-107.8806,Backcountry Tourer,Ski,1
+2019,45.8068,-110.935,Backcountry Tourer,Ski,1
+2019,37.90765,-107.81133,Backcountry Tourer,Ski,1
+2019,38.900249,-106.871974,Backcountry Tourer,Ski,2
+2019,40.86998,-111.00054,Snowmobiler,Snowmobile,1
+2019,38.20105,-112.40459,Snowmobiler,Snowmobile,1
+2019,45.53253,-111.99267,Backcountry Tourer,Ski,1
+2019,43.43538,-111.12406,Snowmobiler,Snowmobile,1
+2019,38.45639,-109.23622,Snowmobiler,Snowmobile,1
+2019,39.0255,-106.78511,Backcountry Tourer,Ski,1
+2019,39.63323,-111.25,Backcountry Tourer,Ski,1
+2019,36.59686,-105.44398,Inbounds Rider,Ski,2
+2019,43.72431,-110.40504,Snowmobiler,Snowmobile,1
+2019,37.91467,-107.73362,Backcountry Tourer,Ski,1
+2019,47.9255,-112.79538,Snowmobiler,Snowmobile,1
+2019,42.928524,-110.525528,Snowmobiler,Snowmobile,1
+2018,60.63803,-148.76375,Snowmobiler,Snowmobile,1
+2018,43.71207,-110.38285,Snowmobiler,Snowmobile,1
+2018,45.79356,-110.93668,Sidecountry Rider,Ski,1
+2018,39.48928,-105.8942633,Snowmobiler,Snowmobile,1
+2018,39.1356,-106.87936,Sidecountry Rider,Ski,1
+2018,48.71588,-121.85568,Snowmobiler,Snowmobile,1
+2018,48.698,-120.44506,Backcountry Tourer,Ski,1
+2018,38.70123,-120.07545,Resident,Foot,2
+2018,47.28918,-120.85939,Snowmobiler,Snowmobile,2
+2018,55.36253,-131.71496,Backcountry Tourer,Snowboard,1
+2018,47.42726,-121.4157,Hiker,Snowshoe,2
+2018,47.28327,-121.35053,Snowmobiler,Snowmobile,1
+2018,43.37248,-111.13924,Snowmobiler,Snowmobile,1
+2018,43.58847,-110.87502,Sidecountry Rider,Ski,1
+2018,37.868103,-107.731504,Backcountry Tourer,Ski,1
+2018,44.53606,-111.51295,Snowbiker,Snowbike,1
+2018,44.53577,-111.51303,Snowmobiler,Snowmobile,1
+2018,44.92997,-111.24546,Snowmobiler,Snowmobile,1
+2018,42.58895,-110.73395,Snowmobiler,Snowmobile,1
+2018,61.77018,-149.3127,Backcountry Tourer,Ski,1
+2018,44.9926,-111.45364,Backcountry Tourer,SKi,1
+2017,47.45607,-121.38914,Backcountry Tourer,Foot,1
+2017,64.75012,-147.33215,Resident,Foot,1
+2017,47.45038,-121.00136,Snowmobiler,Snowmobile,1
+2017,40.07444,-107.24227,Snowbiker,Snowbike,1
+2017,43.18684,-111.10276,Snowmobiler,Snowmobile,1
+2017,60.49072,-149.81369,Snowmobiler,Snowmobile,1
+2017,48.65865,-113.89389,Backcountry Tourer,Ski,1
+2017,46.93807,-121.50192,Backcountry Tourer,Ski,1
+2017,46.63541,-121.39051,Sidecountry Rider,Ski,1
+2017,43.777267,-110.9207,Sidecountry Rider,Foot,1
+2017,45.05133,-109.94499,Hybrid Tourer,Ski,1
+2017,39.319495,-119.882984,Inbounds Rider,Ski,1
+2016,63.13543,-145.54688,Snowmobiler,Snowmobile,1
+2016,63.13287,-145.51838,Snowmobiler,Snowmobile,1
+2016,43.15673,-122.21706,Mechanized Guide,Ski,1
+2016,45.38254,-117.23099,Backcountry Tourer,Ski,1
+2016,61.9341,-147.16324,Snowmobiler,Snowmobile,1
+2016,44.50079,-111.33665,Resident,Foot,1
+2016,43.78727,-110.95917,Sidecountry Rider,Foot,1
+2016,44.61589,-107.38586,Snowmobiler,Snowmobile,1
+2016,38.78811,-106.38731,Snowbiker,Snowbike,1
+2016,37.49201,-106.70106,Snowmobiler,Snowmobile,1
+2016,40.68023,-111.59942,Sidecountry Rider,Ski,1
+2016,45.02176,-116.12926,Snowmobiler,Snowmobile,1
+2016,48.86637,-121.7029,Backcountry Tourer,Foot,1
+2016,43.59215,-110.87834,Sidecountry Rider,Ski,2
+2016,48.65633,-114.55822,Snowmobiler,Snowmobile,1
+2016,39.75178,-105.83877,Backcountry Tourer,Snowboard,1
+2016,40.66633,-111.68551,Backcountry Tourer,Ski,1
+2016,38.89564,-107.12571,Snowmobiler,Snowmobile,1
+2016,43.58226,-110.8263,Backcountry Tourer,Snowboard,1
+2016,45.2674,-111.29631,Backcountry Tourer,Ski,1
+2016,61.77334,-149.30763,Backcountry Tourer,Snowboard,1
+2016,39.8328,-105.64831,Climber,Foot,1
+2016,39.31398,-120.3389,Sidecountry Rider,Ski,1
+2016,61.76959,-149.31244,Snowmobiler,Snowmobile,1
+2016,47.42748,-121.41789,Hiker,Snowshoe,1
+2016,47.4395,-121.3841,Backcountry Tourer,Ski,1
+2016,45.0719,-109.92765,Snowmobiler,Snowmobile,1
+2016,61.78027,-149.289121,Backcountry Tourer,,1
+2016,36.59012,-118.29052,Hiker,Foot,1
+2015,43.840977,-110.76783,Backcountry Tourer,Ski,2
+2015,45.34349,-111.39699,Backcountry Tourer,Ski,1
+2015,61.257718,-144.316144,Backcountry Tourer,Ski,1
+2015,63.236944,-149.298611,Snowmobiler,Foot,1
+2015,41.20948,-111.88039,Sidecountry Rider,Snowboard,1
+2015,39.16365,-106.83021,Sidecountry Rider,Ski,1
+2015,37.80219,-107.65048,Backcountry Tourer,Ski,1
+2015,39.65381,-105.79688,Climber,Snowshoe,1
+2015,63.30806,-145.68832,Backcountry Tourer,Ski,1
+2015,45.03989,-109.94394,Snowmobiler,Snowmobile,1
+2014,46.85409,-121.75873,Climber,Foot,6
+2014,48.83072,-121.60287,Backcountry Tourer,Foot,1
+2014,46.16521,-113.08846,Backcountry Tourer,Ski,1
+2014,42.94208,-122.10402,Hiker,Snowshoe,1
+2014,43.72534,-121.23121,Snowmobiler,Snowmobile,1
+2014,47.42995,-121.63033,Backcountry Tourer,Ski,1
+2014,59.174833,-135.94405,Mechanized Guide,Ski,1
+2014,45.04988,-109.96267,Snowmobiler,Snowmobile,1
+2014,46.22165,-113.1427,Backcountry Tourer,Ski,1
+2014,40.81277,-110.89685,Snowmobiler,Snowmobile,1
+2014,37.46096,-108.0689,Snowmobiler,Snowmobile,1
+2014,37.29154,-106.56876,Ski Patroller,Ski,1
+2014,46.8785,-113.95603,Resident,Foot,1
+2014,48.24066,-116.0307,Snowmobiler,Snowmobile,1
+2014,43.75188,-110.06799,Snowmobiler,Snowmobile,1
+2014,43.87049,-114.71289,Snowmobiler,Foot,1
+2014,39.0601,-106.52531,Backcountry Tourer,Ski,2
+2014,45.04927,-117.24747,Human-powered Guide Client,Ski,2
+2014,39.54231,-105.90649,Sidecountry Rider,Ski,1
+2014,39.58532,-111.26644,Snowmobiler,Snowmobile,1
+2014,38.85159,-107.0978,Snowmobiler,Snowmobile,1
+2014,40.48077,-111.64719,Snowplayer,Snowshoe,1
+2014,48.00566,-121.46261,Climber,Foot,1
+2014,39.60126,-106.30123,Sidecountry Rider,Ski,1
+2014,45.28914,-111.39776,Snowmobiler,Snowmobile,1
+2014,40.34187,-106.11978,Backcountry Tourer,Snowboard,1
+2014,43.55509,-110.83933,Sidecountry Rider,Ski,1
+2014,43.44151,-111.08833,Snowmobiler,Snowmobile,1
+2013,39.6789,-105.86839,Backcountry Tourer,Snowboard,5
+2013,39.49593,-106.26114,Hybrid Rider,Snowboard,1
+2013,47.4556,-121.38923,Hiker,Snowshoe,1
+2013,47.41624,-121.48046,Hiker,Snowshoe,1
+2013,40.629,-111.666412,Highway Personnel,Ski,1
+2013,40.45562,-105.67725,Climber,Foot,1
+2013,59.23428,-135.44838,Mechanized Guiding Client,Snowboard,1
+2013,40.49092,-105.89048,Backcountry Tourer,Ski,1
+2013,43.6562,-110.83179,Backcountry Tourer,Ski,1
+2013,44.27458,-71.28565,Climber,Foot,1
+2013,39.0436,-111.519,Snowmobiler,Snowmobile,1
+2013,37.89819,-107.65301,Backcountry Tourer,Ski,1
+2013,44.03701,-110.84518,Backcountry Tourer,Ski,1
+2013,43.16087,-110.56993,Backcountry Tourer,Ski,1
+2013,40.48247,-111.03127,Snowmobiler,Foot,2
+2013,39.04972,-107.19519,Backcountry Tourer,Ski,1
+2013,39.17266,-106.875,Ski Patroller,Ski,1
+2013,39.31763,-120.32956,Inbounds Rider,Snowboard,1
+2013,39.17845,-120.22751,Ski Patroller,Ski,1
+2012,63.06973,-151.00605,Climber,Foot,4
+2012,37.84165,-107.7812,Backcountry Tourer,Ski,1
+2012,59.30267,-136.0355,Mechanized Guide,Ski,2
+2012,43.9293,-110.76279,Backcountry Tourer,Ski,2
+2012,38.53887,-109.20981,Snowmobiler,Snowmobile,1
+2012,38.6687,-119.95553,Snowmobiler,Snowmobile,1
+2012,39.13477,-120.20433,Backcountry Tourer,Ski,1
+2012,43.70731,-110.22351,Snowmobiler,Snowmobile,1
+2012,48.28091,-113.34938,Snowbiker,Snowbike,1
+2012,40.65124,-111.5917,Sidecountry Rider,Snowboard,1
+2012,45.03811,-109.94252,Snowmobiler,Snowmobile,1
+2012,48.24368,-114.0035,Snowmobiler,Snowmobile,1
+2012,47.40393,-121.41541,Sidecountry Rider,Snowboard,1
+2012,47.73107,-121.10229,Sidecountry Rider,Ski,3
+2012,37.5023,-106.80041,Backcountry Tourer,Ski,1
+2012,37.92179,-107.80952,Sidecountry Rider,Snowboard,1
+2012,38.71646,-111.72199,Snowmobiler,Snowmobile,1
+2012,48.1836,-113.94539,Backcountry Tourer,Ski,1
+2012,40.62223,-111.66989,Backcountry Tourer,Snowboard,1
+2012,39.61276,-106.35495,Inbounds Rider,Ski,1
+2012,39.88692,-105.76066,Inbounds Rider,Ski,1
+2012,40.56363,-106.64257,Snowmobiler,Snowmobile,1
+2012,39.18044,-106.92264,Sidecountry Rider,Ski,1
+2012,46.28812,-113.19969,Snowmobiler,Snowmobile,1
+2012,44.98826,-109.9001,Backcountry Tourer,Ski,1
+2012,45.05412,-109.92405,Snowmobiler,Snowmobile,1
+2012,40.56899,-111.65284,Backcountry Tourer,Snowboard,1
+2011,62.988611,-151.1625,Climber,Foot,2
+2011,39.64473,-105.81825,Backcountry Tourer,Snowboard,1
+2011,0,0,Climber,Foot,1
+2011,37.02093,-118.42155,Backcountry Tourer,Ski,2
+2011,0,0,Snowplayer,"Sled, tube, or saucer",1
+2011,0,0,Backcountry Tourer,Foot,2
+2011,39.1341833,-106.8850167,Sidecountry Rider,SKi,1
+2011,0,0,Backcountry Tourer,Snowboard,1
+2011,0,0,Backcountry Tourer,Ski,1
+2011,0,0,Backcountry Tourer,Ski,1
+2011,0,0,Backcountry Tourer,Ski,1
+2011,39.1766667,-106.9752778,Backcountry Tourer,Ski,1
+2011,40.1167083,-107.3775583,Snowmobiler,Snowmobile,1
+2011,45.80933,-110.93343,Backcountry Tourer,Snowboard,1
+2011,0,0,Backcountry Tourer,Ski,1
+2011,39.80247,-105.76991,Backcountry Tourer,Snowboard,1
+2011,0,0,Snowmobiler,Snowmobile,1
+2011,0,0,Snowmobiler,Snowmobile,1
+2011,39.7630556,-106.0983333,Backcountry Tourer,Ski,1
+2011,0,0,Climber,Foot,1
+2011,0,0,Snowmobiler,Snowmobile,1
+2011,37.4599722,-106.7997778,Ski Patroller,Ski,1
+2010,0,0,Backcountry Tourer,Ski,1
+2010,0,0,Climber,Foot,1
+2010,0,0,Climber,Foot,2
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Backcountry Tourer,Snowboard,1
+2010,38.12291,-107.67303,Climber,Ski,1
+2010,0,0,Snowmobiler,Snowmobile,2
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,37.74434,-107.10425,Resident,Foot,2
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,38.32872,-106.23696,Snowmobiler,Snowmobile,1
+2010,39.63599,-105.88544,Backcountry Tourer,Snowboard,1
+2010,39.00458,-106.80244,Backcountry Tourer,Ski,1
+2010,0,0,Backcountry Tourer,Ski,1
+2010,61.245,-149.438,Backcountry Tourer,Ski,1
+2010,60.63375,-149.0722,Snowmobiler,Snowmobile,2
+2010,38.02697,-107.76825,Backcountry Tourer,Ski,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Backcountry Tourer,Ski,1
+2010,0,0,Backcountry Tourer,Ski,1
+2010,0,0,Inbounds Rider,Ski,1
+2010,39.5595,-106.34039,Backcountry Tourer,Snowboard,1
+2010,0,0,Ski Patroller,Ski,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Snowmobiler,Snowmobile,1
+2010,0,0,Climber,Foot,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Backcountry Tourer,Ski,1
+2009,0,0,Backcountry Tourer,Ski,1
+2009,0,0,Ski Patroller,Ski,1
+2009,0,0,Snowmobiler,Snowmobile,3
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Backcountry Tourer,Ski,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Climber,Foot,1
+2009,0,0,Resident,Foot,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Snowmobiler,Snowmobile,1
+2009,0,0,Inbounds Rider,Ski,1
+2009,40.2676,-105.9995,Snowmobiler,Snowmobile,2
+2009,0,0,Inbounds Rider,Ski,1
+2009,0,0,Snowmobiler,,2
+2009,38.89737,-107.01826,Backcountry Tourer,Snowboard,1
+2009,0,0,Inbounds Rider,Ski,1
+2009,39.13588,-106.8024,Sidecountry Rider,Ski,1
+2008,0,0,Hybrid Rider,Foot,1
+2008,0,0,Snowmobiler,Snowmobile,1
+2008,0,0,Backcountry Tourer,Ski,1
+2008,0,0,Snowmobiler,,2
+2008,0,0,Resident,Foot,1
+2008,39.79637,-107.65328,Snowmobiler,Snowmobile,1
+2008,0,0,Backcountry Tourer,Ski,1
+2008,0,0,Sidecountry Rider,Ski,1
+2008,0,0,Sidecountry Rider,Ski,1
+2008,0,0,Sidecountry Rider,Ski,1
+2008,0,0,Backcountry Tourer,Ski,1
+2008,0,0,Climber,,1
+2008,0,0,Sidecountry Rider,Ski,2
+2008,39.59875,-106.29621,Sidecountry Rider,Ski,1
+2008,0,0,Snowmobiler,Snowmobile,3
+2008,37.56332394,-105.503296,Climber,,1
+2008,0,0,Hiker,Foot,1
+2008,39.60277641,-106.298302,Sidecountry Rider,Snowboard,1
+2008,0,0,Resident,Foot,1
+2008,0,0,Snowmobiler,Snowmobile,1
+2008,0,0,Snowmobiler,,2
+2008,0,0,Snowmobiler,Snowmobile,1
+2008,0,0,Snowmobiler,Snowmobile,1
+2008,0,0,Inbounds Rider,Ski,1
+2008,0,0,Hiker,Snowshoe,1
+2008,0,0,Backcountry Tourer,Other,3
+2008,0,0,Hiker,Snowshoe,2
+2008,40.52352047,-105.873138,Hiker,Snowshoe,1
+2007,39.10021879,-106.731148,Backcountry Tourer,Snowboard,1
+2007,39.10021879,-106.731148,Backcountry Tourer,Ski,1
+2007,0,0,Backcountry Tourer,Ski,1
+2007,0,0,Backcountry Tourer,Ski,1
+2007,39.64455,-105.58999,Backcountry Tourer,Snowshoe,1
+2007,0,0,Sidecountry Rider,Ski,1
+2007,0,0,Backcountry Tourer,Ski,1
+2007,0,0,Sidecountry Rider,Ski,1
+2007,0,0,Snowmobiler,,1
+2007,0,0,Snowmobiler,,1
+2007,0,0,Snowmobiler,Snowmobile,2
+2007,0,0,Snowmobiler,,1
+2007,37.48493484,-106.541466,Snowmobiler,,1
+2007,0,0,Sidecountry Rider,Ski,1
+2007,0,0,Snowmobiler,,1
+2007,0,0,Snowmobiler,,1
+2007,39.17417794,-106.944435,Inbounds Rider,Ski,1
+2007,0,0,Snowmobiler,,1
+2007,0,0,Snowmobiler,,1
+2006,0,0,Backcountry Tourer,Ski,1
+2006,0,0,Sidecountry Rider,Ski,1
+2006,0,0,Snowmobiler,Snowmobile,1
+2006,0,0,Sidecountry Rider,Ski,1
+2006,0,0,Snowmobiler,,1
+2006,0,0,Snowmobiler,,1
+2006,0,0,Sidecountry Rider,Ski,1
+2006,0,0,Snowmobiler,,1
+2006,0,0,Snowmobiler,,1
+2006,0,0,Snowmobiler,,1
+2006,0,0,Hiker,Snowshoe,1
+2006,0,0,Backcountry Tourer,Ski,1
+2006,0,0,Snowmobiler,,2
+2006,0,0,Snowmobiler,,1
+2006,0,0,Backcountry Tourer,Ski,1
+2006,0,0,Snowmobiler,,1
+2006,0,0,Backcountry Tourer,Ski,1
+2006,40.51823354,-105.84417,Snowmobiler,Snowmobile,2
+2006,0,0,Hiker,Snowshoe,1
+2006,0,0,Snowmobiler,,1
+2006,39.64997863,-105.796799,Hiker,,1
+2006,39.79976669,-105.765465,Backcountry Tourer,Ski,1
+2005,0,0,Backcountry Tourer,Snowboard,1
+2005,39.63570346,-105.878418,Inbounds Rider,Ski,1
+2005,39.05444058,-108.052078,Backcountry Tourer,Ski,1
+2005,0,0,Snowmobiler,,1
+2005,0,0,Snowmobiler,,1
+2005,0,0,Backcountry Tourer,Ski,2
+2005,39.38977265,-106.102867,Climber,Foot,1
+2005,39.12319169,-106.875687,Sidecountry Rider,,1
+2005,0,0,Backcountry Tourer,Ski,1
+2005,0,0,Climber,,1
+2005,0,0,Backcountry Tourer,Ski,1
+2005,0,0,Backcountry Tourer,Snowboard,2
+2005,0,0,Sidecountry Rider,Snowboard,1
+2005,0,0,Backcountry Tourer,Ski,1
+2005,0,0,Inbounds Rider,Snowboard,1
+2005,0,0,Backcountry Tourer,Snowboard,1
+2005,0,0,Snowmobiler,,1
+2005,40.55012905,-106.718529,Backcountry Tourer,Ski,1
+2005,0,0,Backcountry Tourer,Ski,1
+2005,0,0,Hiker,Snowshoe,2
+2005,0,0,Snowmobiler,,1
+2005,0,0,Backcountry Tourer,Ski,1
+2005,0,0,Climber,,2
+2005,0,0,Climber,,1
+2004,0,0,Climber,,2
+2004,0,0,Inbounds Rider,Snowboard,1
+2004,0,0,Snowmobiler,,1
+2004,38.95980398,-106.448074,Hiker,Snowshoe,1
+2004,39.03198157,-106.483955,Climber,,1
+2004,39.4691953,-105.935242,Snowmobiler,,1
+2004,0,0,Snowmobiler,,1
+2004,0,0,Snowmobiler,,1
+2004,0,0,Climber,,1
+2004,0,0,Snowmobiler,,1
+2004,0,0,Hiker,Snowshoe,1
+2004,0,0,Backcountry Tourer,Ski,1
+2004,0,0,Others at Work,,1
+2004,0,0,Resident,Foot,2
+2004,0,0,Hiker,Snowshoe,1
+2004,0,0,Backcountry Tourer,Snowboard,3
+2004,0,0,Snowmobiler,,1
+2004,0,0,Hiker,Snowshoe,1
+2004,0,0,Hiker,Snowshoe,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Climber,,2
+2003,0,0,Backcountry Tourer,Ski,1
+2003,37.67885051,-108.033371,Snowmobiler,,1
+2003,39.61487936,-105.914383,Backcountry Tourer,Ski,1
+2003,0,0,Snowmobiler,,1
+2003,38.77737059,-106.390312,Snowmobiler,,1
+2003,38.62115878,-106.370575,Snowmobiler,,1
+2003,0,0,Snowmobiler,,1
+2003,38.95026085,-106.363106,Backcountry Tourer,Ski,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Snowmobiler,,1
+2003,39.71319538,-105.90683,Climber,,1
+2003,0,0,Backcountry Tourer,Ski,1
+2003,0,0,Sidecountry Rider,Ski,1
+2003,0,0,Backcountry Tourer,Snowboard,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Backcountry Tourer,Snowboard,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Backcountry Tourer,Snowboard,1
+2003,0,0,Backcountry Tourer,Ski,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Snowmobiler,,1
+2003,0,0,Inbounds Rider,Snowboard,1
+2003,0,0,Climber,,2
+2002,0,0,Climber,Foot,3
+2002,0,0,Hiker,Snowshoe,2
+2002,0,0,Snowmobiler,,1
+2002,0,0,Backcountry Tourer,Ski,1
+2002,40.13922422,-107.348953,Snowmobiler,,1
+2002,0,0,Inbounds Rider,Snowboard,2
+2002,0,0,Snowmobiler,,1
+2002,37.90121404,-107.82103,Inbounds Rider,Snowboard,1
+2002,39.00481237,-106.801826,Backcountry Tourer,Ski,1
+2002,39.1527502,-106.809509,Sidecountry Rider,Ski,1
+2002,0,0,Snowmobiler,,1
+2002,0,0,Inbounds Rider,Snowboard,1
+2002,39.36068213,-107.429977,Snowmobiler,,1
+2002,0,0,Snowmobiler,Snowmobile,2
+2002,0,0,Snowmobiler,,1
+2002,38.95806345,-106.798096,Backcountry Tourer,Ski,1
+2002,39.16772491,-106.866333,Sidecountry Rider,Ski,1
+2002,0,0,Backcountry Tourer,Ski,1
+2002,0,0,Snowmobiler,Snowmobile,4
+2002,0,0,Snowmobiler,Snowmobile,2
+2002,0,0,Snowmobiler,,1
+2002,0,0,Snowmobiler,,1
+2002,0,0,Snowmobiler,,1
+2002,0,0,Snowmobiler,,1
+2002,39.93797283,-105.655472,Backcountry Tourer,Ski,1
+2002,0,0,Hiker,Snowshoe,1
+2001,0,0,Climber,Snowshoe,2
+2001,0,0,Snowmobiler,,1
+2001,0,0,Backcountry Tourer,Ski,1
+2001,0,0,Snowmobiler,,1
+2001,39.45846051,-106.12999,Snowmobiler,,1
+2001,40.82587951,-106.842384,Backcountry Tourer,Ski,1
+2001,0,0,Snowmobiler,,1
+2001,0,0,Snowmobiler,Snowmobile,2
+2001,0,0,Snowmobiler,,1
+2001,0,0,Sidecountry Rider,Ski,1
+2001,38.83126633,-107.096786,Backcountry Tourer,Ski,1
+2001,0,0,Sidecountry Rider,Ski,1
+2001,0,0,Sidecountry Rider,Ski,2
+2001,0,0,Snowmobiler,,1
+2001,0,0,Sidecountry Rider,Ski,1
+2001,0,0,Snowmobiler,Snowmobile,2
+2001,0,0,Hiker,Snowshoe,1
+2001,0,0,Snowmobiler,,1
+2001,0,0,Hiker,Foot,2
+2001,40.5148114,-105.899963,Snowmobiler,,1
+2001,0,0,Backcountry Tourer,Ski,1
+2001,0,0,Snowmobiler,Foot,2
+2001,0,0,Snowmobiler,,1
+2001,0,0,Backcountry Tourer,Ski,1
+2001,0,0,Snowmobiler,,1
+2001,0,0,Backcountry Tourer,Snowboard,1
+2001,0,0,Hunter,,1
+2000,39.63900749,-105.864685,Sidecountry Rider,Ski,1
+2000,0,0,Snowmobiler,,1
+2000,0,0,Backcountry Tourer,Ski,1
+2000,0,0,Snowmobiler,,1
+2000,0,0,Snowmobiler,,1
+2000,39.13091237,-106.888649,Backcountry Tourer,Ski,2
+2000,0,0,Backcountry Tourer,Ski,1
+2000,0,0,Backcountry Tourer,Ski,1
+2000,0,0,Snowmobiler,,1
+2000,0,0,Highway Personnel,,1
+2000,0,0,Resident,Foot,1
+2000,#REF!,#REF!,Backcountry Tourer,Ski,1
+2000,#REF!,#REF!,Inbounds Rider,Snowboard,1
+2000,39.77424143,-105.889061,Hiker,Snowshoe,1
+2000,0,0,Sidecountry Rider,Ski,1
+2000,0,0,Sidecountry Rider,Ski,2
+2000,0,0,Snowmobiler,,1
+2000,39.38997168,-106.097374,Backcountry Tourer,Ski,1
+2000,40.51393041,-105.897987,Backcountry Tourer,Ski,1
+2000,0,0,Sidecountry Rider,Ski,1
+1999,0,0,Hiker,,1
+1999,0,0,Climber,,1
+1999,0,0,Backcountry Tourer,Snowboard,1
+1999,0,0,Snowmobiler,,1
+1999,0,0,Others at Work,,1
+1999,0,0,Backcountry Tourer,Ski,1
+1999,0,0,Snowmobiler,,1
+1999,0,0,Snowmobiler,,6
+1999,0,0,Sidecountry Rider,Ski,1
+1999,0,0,Backcountry Tourer,Ski,2
+1999,0,0,Hiker,Snowshoe,1
+1999,0,0,Snowmobiler,,1
+1999,0,0,Snowplayer,,1
+1999,0,0,Snowmobiler,,1
+1999,0,0,Backcountry Tourer,Snowboard,1
+1999,0,0,Snowmobiler,,1
+1999,0,0,Sidecountry Rider,Ski,1
+1999,0,0,Inbounds Rider,Snowboard,1
+1999,0,0,Sidecountry Rider,Ski,1
+1999,0,0,Snowmobiler,,1
+1999,0,0,Backcountry Tourer,Snowboard,2
+1999,0,0,Snowmobiler,,1
+1999,0,0,Hunter,,1
+1999,0,0,Sidecountry Rider,Snowboard,1
+1998,0,0,Climber,,1
+1998,0,0,Climber,,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Hiker,Snowshoe,1
+1998,0,0,Hiker,,1
+1998,0,0,Sidecountry Rider,Ski,1
+1998,0,0,Sidecountry Rider,Snowboard,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Sidecountry Rider,Snowboard,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Backcountry Tourer,Snowboard,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Snowmobiler,Snowmobile,3
+1998,0,0,Snowmobiler,,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Climber,,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Snowmobiler,,1
+1998,0,0,Hiker,Snowshoe,1
+1998,0,0,Hiker,,1
+1998,0,0,Backcountry Tourer,Snowboard,1
+1997,0,0,Climber,,1
+1997,0,0,Climber,,1
+1997,0,0,Climber,,1
+1997,0,0,Snowmobiler,,1
+1997,0,0,Snowmobiler,,1
+1997,0,0,Others at Work,,2
+1997,0,0,Snowmobiler,,1
+1997,0,0,Snowmobiler,,1
+1997,0,0,Climber,,1
+1997,0,0,Hunter,,1
+1997,0,0,Backcountry Tourer,Foot,3
+1997,0,0,Snowmobiler,,1
+1997,0,0,Misc Recreation,,3
+1997,0,0,Backcountry Tourer,Snowboard,1
+1997,0,0,Climber,,2
+1997,0,0,Snowmobiler,,1
+1996,0,0,Climber,,2
+1996,0,0,Climber,,1
+1996,0,0,Climber,,2
+1996,0,0,Backcountry Tourer,Ski,1
+1996,0,0,Hiker,,2
+1996,0,0,Snowmobiler,,1
+1996,0,0,Sidecountry Rider,Ski,1
+1996,0,0,Snowmobiler,,1
+1996,0,0,Resident,Foot,1
+1996,0,0,Climber,,3
+1996,0,0,Snowmobiler,,1
+1996,0,0,Mechanized Guide,,1
+1996,0,0,Snowmobiler,,1
+1996,0,0,Backcountry Tourer,Ski,1
+1996,0,0,Sidecountry Rider,Snowboard,1
+1996,0,0,Snowmobiler,,1
+1996,0,0,Ski Patroller,,1
+1996,0,0,Climber,,1
+1996,0,0,Backcountry Tourer,Ski,1
+1996,0,0,Backcountry Tourer,Ski,1
+1996,0,0,Mechanized Guiding Client,,1
+1996,0,0,Backcountry Tourer,Snowboard,2
+1996,0,0,Hiker,,1
+1996,0,0,Backcountry Tourer,Snowboard,1
+1995,0,0,Highway Personnel,,1
+1995,0,0,Climber,,1
+1995,0,0,Backcountry Tourer,Snowboard,1
+1995,0,0,Backcountry Tourer,Ski,1
+1995,0,0,Climber,,3
+1995,0,0,Snowmobiler,,2
+1995,0,0,Climber,,1
+1995,0,0,Backcountry Tourer,Ski,1
+1995,0,0,Snowmobiler,,1
+1995,0,0,Snowmobiler,,1
+1995,0,0,Resident,Foot,1
+1995,0,0,Backcountry Tourer,Ski,1
+1995,0,0,Backcountry Tourer,Ski,1
+1995,0,0,Sidecountry Rider,Snowboard,1
+1995,0,0,Inbounds Rider,Snowboard,1
+1995,0,0,Resident,Foot,1
+1995,0,0,Snowmobiler,,1
+1995,0,0,Backcountry Tourer,Ski,1
+1995,0,0,Snowmobiler,,2
+1995,0,0,Ski Patroller,,1
+1995,0,0,Backcountry Tourer,Ski,1
+1995,0,0,Backcountry Tourer,Ski,1
+1995,0,0,Climber,,2
+1994,0,0,Climber,,2
+1994,0,0,Backcountry Tourer,Ski,1
+1994,0,0,Snowmobiler,,1
+1994,0,0,Snowmobiler,,1
+1994,0,0,Snowmobiler,,1
+1994,0,0,Backcountry Tourer,Ski,1
+1994,0,0,Snowmobiler,,1
+1994,0,0,Snowmobiler,,5
+1993,0,0,Hunter,,1
+1993,0,0,Misc Recreation,,1
+1993,0,0,Backcountry Tourer,Ski,2
+1993,0,0,Backcountry Tourer,Ski,1
+1993,0,0,Ski Patroller,,1
+1993,0,0,Backcountry Tourer,Ski,1
+1993,0,0,Snowmobiler,,1
+1993,0,0,Motorist,,1
+1993,0,0,Backcountry Tourer,Ski,1
+1993,0,0,Backcountry Tourer,Snowboard,1
+1993,0,0,Snowmobiler,,1
+1993,0,0,Sidecountry Rider,Ski,1
+1993,0,0,Climber,,1
+1993,0,0,Sidecountry Rider,Ski,1
+1993,0,0,Sidecountry Rider,Ski,1
+1993,0,0,Inbounds Rider,Snowboard,1
+1993,0,0,Sidecountry Rider,Ski,1
+1993,0,0,Backcountry Tourer,Ski,1
+1993,0,0,Hiker,,1
+1993,0,0,Snowplayer,Snowboard,1
+1993,0,0,Backcountry Tourer,Ski,1
+1993,0,0,Others at Work,,1
+1993,0,0,Sidecountry Rider,Ski,1
+1993,0,0,Snowplayer,,1
+1993,0,0,Backcountry Tourer,Ski,2
+1993,0,0,Climber,,2
+1992,0,0,Climber,,2
+1992,0,0,Climber,,1
+1992,0,0,Climber,,2
+1992,0,0,Backcountry Tourer,Ski,1
+1992,0,0,Sidecountry Rider,Ski,1
+1992,0,0,Mechanized Guiding Client,,1
+1992,0,0,Highway Personnel,,1
+1992,0,0,Hiker,Snowshoe,1
+1992,0,0,Climber,,2
+1992,0,0,Snowmobiler,,1
+1992,0,0,Backcountry Tourer,Ski,1
+1992,0,0,Others at Work,,1
+1992,0,0,Sidecountry Rider,Ski,1
+1992,0,0,Backcountry Tourer,Ski,1
+1992,0,0,Backcountry Tourer,Ski,4
+1992,0,0,Sidecountry Rider,Ski,2
+1992,0,0,Snowmobiler,,1
+1991,0,0,Climber,,1
+1991,0,0,Snowplayer,,1
+1991,0,0,Backcountry Tourer,Ski,1
+1991,0,0,Climber,,1
+1991,0,0,Snowmobiler,,1
+1991,0,0,Sidecountry Rider,Ski,1
+1991,0,0,Snowmobiler,,1
+1991,0,0,Climber,,1
+1991,0,0,Backcountry Tourer,Ski,1
+1990,0,0,Sidecountry Rider,Ski,1
+1990,0,0,Backcountry Tourer,Ski,1
+1990,0,0,Snowplayer,,1
+1990,0,0,Backcountry Tourer,Snowboard,1
+1990,0,0,Sidecountry Rider,Ski,1
+1990,0,0,Snowmobiler,,1
+1990,0,0,Sidecountry Rider,Ski,1
+1990,0,0,Backcountry Tourer,Ski,1
+1989,0,0,Backcountry Tourer,Ski,1
+1989,0,0,Backcountry Tourer,Ski,1
+1989,0,0,Ski Patroller,,1
+1989,0,0,Sidecountry Rider,Ski,2
+1989,0,0,Resident,Foot,1
+1989,0,0,Backcountry Tourer,Ski,1
+1988,0,0,Climber,,2
+1988,0,0,Backcountry Tourer,Ski,1
+1988,0,0,Backcountry Tourer,Ski,3
+1988,0,0,Backcountry Tourer,Ski,2
+1987,0,0,Hiker,,1
+1987,0,0,Climber,,1
+1987,0,0,Climber,,1
+1987,0,0,Climber,,4
+1987,0,0,Snowmobiler,,2
+1987,0,0,Mechanized Guiding Client,,1
+1987,0,0,Sidecountry Rider,Ski,4
+1987,0,0,Backcountry Tourer,Ski,1
+1987,0,0,Sidecountry Rider,Ski,1
+1987,0,0,Sidecountry Rider,Ski,2
+1987,0,0,Backcountry Tourer,Ski,1
+1987,0,0,Sidecountry Rider,Ski,1
+1987,0,0,Hiker,,1
+1986,0,0,Climber,,2
+1986,0,0,Sidecountry Rider,Ski,1
+1986,0,0,Inbounds Rider,Ski,1
+1986,0,0,Backcountry Tourer,Snowboard,1
+1986,0,0,Ski Patroller,,1
+1986,0,0,Resident,Foot,1
+1986,0,0,Backcountry Tourer,Ski,2
+1986,0,0,Backcountry Tourer,Ski,1
+1986,0,0,Ski Patroller,,1
+1986,0,0,Inbounds Rider,Ski,1
+1986,0,0,Backcountry Tourer,Ski,2
+1986,0,0,Miner,,1
+1986,0,0,Backcountry Tourer,Ski,2
+1985,0,0,Climber,,1
+1985,0,0,Backcountry Tourer,Ski,1
+1985,0,0,Sidecountry Rider,Ski,1
+1985,0,0,Backcountry Tourer,Ski,1
+1985,0,0,Snowmobiler,,1
+1985,0,0,Sidecountry Rider,Ski,1
+1985,0,0,Snowplayer,,1
+1985,0,0,Backcountry Tourer,Ski,1
+1985,0,0,Climber,,1
+1985,0,0,Snowmobiler,,1
+1985,0,0,Climber,,1
+1985,0,0,Backcountry Tourer,Ski,1
+1985,0,0,Backcountry Tourer,Ski,1
+1985,0,0,Backcountry Tourer,Ski,1
+1984,0,0,Backcountry Tourer,Ski,1
+1984,0,0,Climber,,1
+1984,0,0,Climber,,1
+1984,0,0,Climber,,1
+1984,0,0,Ski Patroller,Ski,3
+1984,0,0,Backcountry Tourer,Ski,1
+1984,0,0,Backcountry Tourer,Ski,1
+1984,0,0,Sidecountry Rider,Ski,1
+1984,0,0,Climber,,2
+1984,0,0,Resident,Foot,1
+1984,0,0,Backcountry Tourer,Ski,1
+1984,0,0,Ski Patroller,,1
+1983,0,0,Climber,,2
+1983,0,0,Hiker,,1
+1983,0,0,Climber,,1
+1983,0,0,Snowmobiler,,1
+1983,0,0,Sidecountry Rider,Ski,1
+1983,0,0,Backcountry Tourer,Ski,1
+1983,0,0,Backcountry Tourer,Ski,1
+1983,0,0,Backcountry Tourer,Ski,1
+1983,0,0,Snowmobiler,,1
+1983,0,0,Backcountry Tourer,Ski,1
+1983,0,0,Ski Patroller,,1
+1983,0,0,Snowmobiler,,1
+1983,0,0,Hunter,,1
+1982,0,0,Climber,,1
+1982,0,0,Backcountry Tourer,Ski,1
+1982,0,0,Others at Work,Foot,4
+1982,0,0,Ski Patroller,Ski,3
+1982,0,0,Sidecountry Rider,Ski,1
+1982,0,0,Sidecountry Rider,Ski,1
+1982,0,0,Backcountry Tourer,Ski,1
+1982,0,0,Rescuer,,1
+1982,0,0,Backcountry Tourer,Ski,1
+1982,0,0,Sidecountry Rider,Ski,1
+1982,0,0,Misc Recreation,,1
+1982,0,0,Hiker,,1
+1982,0,0,Climber,,1
+1981,0,0,Climber,Foot,11
+1981,0,0,Backcountry Tourer,Ski,1
+1981,0,0,Snowmobiler,,1
+1981,0,0,Ski Patroller,,1
+1981,0,0,Backcountry Tourer,Ski,1
+1981,0,0,Backcountry Tourer,Ski,1
+1981,0,0,Sidecountry Rider,Ski,1
+1981,0,0,Inbounds Rider,Ski,1
+1981,0,0,Snowmobiler,,1
+1981,0,0,Backcountry Tourer,Ski,1
+1981,0,0,Backcountry Tourer,Ski,2
+1981,0,0,Backcountry Tourer,Ski,1
+1980,0,0,Sidecountry Rider,Ski,1
+1980,0,0,Sidecountry Rider,Ski,1
+1980,0,0,Backcountry Tourer,Ski,1
+1980,0,0,Backcountry Tourer,Ski,1
+1980,0,0,Backcountry Tourer,Ski,1
+1980,0,0,Backcountry Tourer,Ski,1
+1979,0,0,Climber,,1
+1979,0,0,Climber,,2
+1979,0,0,Backcountry Tourer,Ski,1
+1979,0,0,Climber,,2
+1979,0,0,Sidecountry Rider,Ski,1
+1979,0,0,Hiker,Snowshoe,1
+1979,0,0,Miner,,1
+1979,0,0,Backcountry Tourer,Ski,1
+1978,0,0,Climber,,1
+1978,0,0,Climber,,1
+1978,0,0,Climber,,2
+1978,0,0,Snowmobiler,,1
+1978,0,0,Highway Personnel,,1
+1978,0,0,Hiker,Snowshoe,1
+1978,0,0,Motorist,,2
+1978,0,0,Highway Personnel,,1
+1978,0,0,Backcountry Tourer,Ski,4
+1978,0,0,Backcountry Tourer,Ski,2
+1978,0,0,Climber,,1
+1978,0,0,Climber,,1
+1977,0,0,Climber,,1
+1977,0,0,Backcountry Tourer,Ski,1
+1977,0,0,Inbounds Rider,Ski,1
+1977,0,0,Others at Work,,1
+1977,0,0,Snowplayer,,1
+1977,0,0,Hiker,Snowshoe,1
+1976,0,0,Climber,,3
+1976,0,0,Climber,,1
+1976,0,0,Climber,,1
+1976,0,0,Others at Work,,1
+1976,0,0,Hiker,Snowshoe,1
+1976,0,0,Backcountry Tourer,Ski,1
+1976,0,0,Inbounds Rider,Ski,3
+1976,0,0,Climber,,1
+1976,0,0,Climber,,1
+1976,0,0,Backcountry Tourer,Ski,1
+1976,0,0,Backcountry Tourer,Ski,2
+1976,0,0,Climber,,2
+1976,0,0,Sidecountry Rider,Ski,1
+1976,0,0,Hiker,Snowshoe,1
+1976,0,0,Backcountry Tourer,Ski,1
+1975,0,0,Hunter,,1
+1975,0,0,Climber,,5
+1975,0,0,Climber,,1
+1975,0,0,Snowmobiler,,1
+1975,0,0,Climber,,1
+1975,0,0,Snowplayer,,1
+1975,0,0,Sidecountry Rider,Ski,1
+1975,0,0,Backcountry Tourer,Ski,1
+1975,0,0,Climber,,1
+1975,0,0,Backcountry Tourer,Ski,1
+1975,0,0,Backcountry Tourer,Ski,2
+1975,0,0,Inbounds Rider,Ski,1
+1975,0,0,Sidecountry Rider,Ski,1
+1975,0,0,Backcountry Tourer,Ski,1
+1975,0,0,Backcountry Tourer,Ski,1
+1975,0,0,Ski Patroller,,1
+1975,0,0,Climber,,1
+1974,0,0,Inbounds Rider,Ski,1
+1974,0,0,Highway Personnel,,1
+1974,0,0,Hiker,Snowshoe,2
+1974,0,0,Backcountry Tourer,Ski,3
+1974,0,0,Climber,,1
+1974,0,0,Climber,,1
+1974,0,0,Inbounds Rider,Ski,1
+1974,0,0,Climber,,1
+1974,0,0,Climber,,2
+1973,0,0,Sidecountry Rider,Ski,1
+1973,0,0,Mechanized Guiding Client,,1
+1973,0,0,Inbounds Rider,Ski,1
+1973,0,0,Sidecountry Rider,Ski,1
+1972,0,0,Hiker,,1
+1972,0,0,Hiker,,1
+1972,0,0,Climber,,2
+1972,0,0,Sidecountry Rider,Ski,2
+1972,0,0,Hunter,,1
+1971,0,0,Climber,,2
+1971,0,0,Mechanized Guide,Ski,1
+1971,0,0,Resident,Foot,4
+1971,0,0,Snowmobiler,,1
+1971,0,0,Motorist,,1
+1971,0,0,Climber,,1
+1971,0,0,Inbounds Rider,Ski,1
+1971,0,0,Snowmobiler,,1
+1970,0,0,Highway Personnel,,1
+1970,0,0,Inbounds Rider,Ski,1
+1970,0,0,Climber,,5
+1969,0,0,Motorist,,1
+1969,0,0,Backcountry Tourer,Ski,1
+1969,0,0,Resident,Foot,2
+1969,0,0,Resident,Foot,1
+1969,0,0,Backcountry Tourer,Ski,1
+1968,0,0,Inbounds Rider,Ski,1
+1968,0,0,Snowmobiler,,1
+1968,0,0,Hiker,,1
+1968,0,0,Ski Patroller,,1
+1967,0,0,Ski Patroller,,2
+1967,0,0,Climber,,2
+1967,0,0,Climber,,2
+1966,0,0,Backcountry Tourer,Ski,1
+1966,0,0,Inbounds Rider,Ski,1
+1966,0,0,Inbounds Rider,Ski,1
+1965,0,0,Others at Work,,1
+1965,0,0,Others at Work,,1
+1965,0,0,Others at Work,Vehicle,1
+1965,0,0,Hiker,Snowshoe,1
+1964,0,0,Climber,,2
+1964,0,0,Ranger,,1
+1964,0,0,Sidecountry Rider,Ski,1
+1964,0,0,Ski Patroller,,1
+1964,0,0,Snowplayer,,2
+1963,0,0,Climber,,1
+1963,0,0,Motorist,,3
+1963,0,0,Snowplayer,,2
+1962,0,0,Climber,,1
+1962,0,0,Climber,,2
+1962,0,0,Hiker,Snowshoe,1
+1962,0,0,Resident,Foot,7
+1962,0,0,Inbounds Rider,Ski,1
+1961,0,0,Sidecountry Rider,Ski,1
+1960,0,0,Climber,,1
+1960,0,0,Others at Work,,2
+1960,0,0,Backcountry Tourer,Ski,1
+1959,0,0,Climber,,1
+1959,0,0,Inbounds Rider,Ski,1
+1958,0,0,Backcountry Tourer,Ski,1
+1958,0,0,Rescuer,,1
+1958,0,0,Miner,,1
+1958,0,0,Rescuer,,3
+1957,0,0,Highway Personnel,Foot,2
+1957,0,0,Hiker,,1
+1957,0,0,Climber,,1
+1957,0,0,Resident,Foot,1
+1956,0,0,Sidecountry Rider,Ski,1
+1956,0,0,Resident,Foot,1
+1956,0,0,Climber,,1
+1955,0,0,Inbounds Rider,Ski,1
+1954,0,0,Highway Personnel,,1
+1954,0,0,Backcountry Tourer,Ski,2
+1954,0,0,Climber,,2
+1953,0,0,Highway Personnel,,2
+1953,0,0,Backcountry Tourer,Ski,1
+1952,0,0,Motorist,,1
+1952,0,0,Highway Personnel,,1
+1952,0,0,Inbounds Rider,Ski,4
+1952,0,0,Resident,Foot,2
+1952,0,0,Miner,,1
+1952,0,0,Motorist,,2
+1951,0,0,Motorist,,2
