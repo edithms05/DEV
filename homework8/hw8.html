@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Homework 8: Geoprocessing Analysis</h1>
+    <h2>Edith Sherlock</h2>
+    <h3>How is the protected Lynx habitat in the White River National Forest impacted by the major roads/highways found in the state of Colorado?</h3>
+    <img src="./printlayout1.png" alt="MapImg" width="500">
+    <h4>To answer my guiding question, I first gathered my data. I decided to reference the designated Lynx habitat to the streams in the area, as well as major roads and highways that cross through. To make this easier to see, I created two intersections and abuffer. The first intersection was to show only the streams in the habitat boundaries. Before I could complete the second intersection, I created a union between the two datasets that I found depicting the major roads and highways separately. The second intersection was then that union within the Lynx habitat boundaries. I really wanted to consider noise pollution in this map, so I created a 500 meter buffer around the roads intersecting the boundary. Noise pollution from roads crossing through habitats impact a number of endangered and protected species in detremental ways, so I really just wanted to consider how this protected species might fair given the number of roads in its habitat, and the levels of noise pollution caused by visitors to the National Forest.</h4>
+
+    <h2>Data used for this project:</h2>
+    <a href="https://www.fs.usda.gov/detail/whiteriver/maps-pubs/?cid=fsbdev3_001232"><h3>Lynx Habitat Data</h3></a>
+    <a href="https://geo.colorado.edu/catalog/47540-5e7518e5a3d91e000a4fe291"><h3>Colorado Highways (CDOT)</h3></a>
+    <a href="https://geo.colorado.edu/catalog/47540-5c9be8ba8b8df0000b25084c"><h3>Major Roads of Colorado (CDOT)</h3></a>
+    <a href="https://geo.colorado.edu/catalog/47540-5ca23860d43267000b8c744e"><h3>Colorado Streams and Tributaries (CDOT)</h3></a>
+</body>
+</html>
